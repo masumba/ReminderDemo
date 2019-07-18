@@ -1,0 +1,10 @@
+
+Ysquid:S1126#"BReplace this if-then-else statement by a single method invocation.(«½Ÿ«
+jsquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(ä¡‹ûÿÿÿÿ
+Ysquid:S1126."BReplace this if-then-else statement by a single method invocation.(«½Ÿ«
+Esquid:S1905")Remove this unnecessary cast to "Button".(¼ª¨Œøÿÿÿÿ
+Jsquid:S1905".Remove this unnecessary cast to "RadioButton".(÷‹«þÿÿÿÿ
+Dsquid:S1905".Remove this unnecessary cast to "RadioButton".(ÅíÀ/
+Bsquid:S1659"&Declare "rdbToast" on a separate line.(Ò—èüüÿÿÿÿ
+@squid:S1905")Remove this unnecessary cast to "Button".(ðöÓ²
+Asquid:S1659"*Declare "btnRepeating" on a separate line.(Ý€õþ

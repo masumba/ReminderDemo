@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReminderDemo</string>
+    <string name="enter_your_task">Enter Your Task</string>
+    <string name="set">Set</string>
+    <string name="cancel">Cancel</string>
+    <string name="other">Other</string>
+    <string name="notification_alert">Notification Alert</string>
+    <string name="toast_alert">Toast Alert</string>
+    <string name="one_alarm">One Alarm</string>
+    <string name="repeating_alarm">Repeating Alarm</string>
+</resources>

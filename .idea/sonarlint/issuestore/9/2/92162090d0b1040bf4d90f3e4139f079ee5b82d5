@@ -1,0 +1,5 @@
+
+esquid:MaximumInheritanceDepth"<This class has 8 parents which is greater than 5 authorized.(ÄÇ‚·
+csquid:CallToDeprecatedMethod1"6Remove this use of "getCurrentHour"; it is deprecated.(õó¶Íýÿÿÿÿ
+_squid:CallToDeprecatedMethod2"8Remove this use of "getCurrentMinute"; it is deprecated.(†º“k
+Xsquid:UselessImportCheck"4Remove this unused import 'android.content.Context'.(©Ê‰è
